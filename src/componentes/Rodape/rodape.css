@@ -1,7 +1,7 @@
 .footer {
-    background: #6278F7;
+    background: gray;
     color: #FFF;
-    padding: 80px;
+    padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
